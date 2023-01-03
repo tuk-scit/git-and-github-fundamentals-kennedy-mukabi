@@ -4,7 +4,7 @@
 2. System Flow Chart. [Preview link](https://www.figma.com/file/vb7mCalQyAWmNYeHGSgns3/Dripventory-Sales-Record-Manger-System-Diagrams?node-id=0%3A1&t=WfEzGIHa2Pr0noHX-1)
 3. System Use Case Diagram [Preview link](https://www.figma.com/file/vb7mCalQyAWmNYeHGSgns3/Dripventory-Sales-Record-Manger-System-Diagrams?node-id=0%3A1&t=WfEzGIHa2Pr0noHX-1)
 4. Context Diagram [Preview link](https://www.figma.com/file/vb7mCalQyAWmNYeHGSgns3/Dripventory-Sales-Record-Manger-System-Diagrams?node-id=0%3A1&t=WfEzGIHa2Pr0noHX-1)
-
+5. Sequence Diagram [Preview link](https://www.figma.com/file/vb7mCalQyAWmNYeHGSgns3/Dripventory-Sales-Record-Manger-System-Diagrams?node-id=0%3A1&t=WfEzGIHa2Pr0noHX-1)
 
  
 
